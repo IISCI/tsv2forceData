@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Qualisys Data files
+*.tsv
+*.qtm
+*.qpr
+*.txt
+*.csv
+*.zip
